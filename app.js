@@ -11,7 +11,7 @@ require('./scss/application.scss');
 const url = '/api/formdata';
 const saveUrl = '/api/formdata';
 
-const TestComponent = () => <h2>Hello</h2>;
+// const TestComponent = () => <h2>Hello</h2>;
 
 // const MyInput = React.forwardRef((props, ref) => {
 //   const { name, defaultValue, disabled } = props;
